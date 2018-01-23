@@ -1,30 +1,24 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# Shapan Dashore portfolio  
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
-
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+### Installation process
+
+* Fork it from GitHub
+* Clone it down to local
+* Go through Jekyll's documentation for installation process for Mac/Windows/Ubuntu.
+* Once completed, make your changes in the _config.yml and then use
+```
+bundle install
+*to install all dependencies*
+
+bundle exec jekyll serve
+*to run on localhost*
+
+```
+To learn how to use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
